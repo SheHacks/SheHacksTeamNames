@@ -62,7 +62,7 @@ Please put your Team Name and Team Members here
 * Jenna Bermeister
 * Julia Wong
 
-# undefined
+# The Gamers
 * Lisa Li
 * Mysha Islam
 * Eddy Mead
