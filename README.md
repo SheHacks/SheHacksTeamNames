@@ -35,9 +35,8 @@ Please put your Team Name and Team Members here
 * Jessica Brazelton
 * Liz Wang
 * Melissa Hong
-* 
 
-#The Buddies
+# The Buddies
 * Hien Bao
 * Maheen Afridi
 * Tran To
@@ -55,7 +54,6 @@ Please put your Team Name and Team Members here
 * Anne Rong
 * Jenna Bermeister
 * Julia Wong
-* 
 
 # undefined
 * Lisa Li
@@ -63,3 +61,9 @@ Please put your Team Name and Team Members here
 * Eddy Mead
 * Monika Koffer
 * Ambreen Khan
+
+# Sheilaz
+* Azadeh
+* Kat
+* Penelope
+* Kathy
