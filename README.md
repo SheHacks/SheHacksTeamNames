@@ -21,4 +21,10 @@ Please put your Team Name and Team Members here
 * Luciana Carrolo
 * Anna Zaitsev
 * Kim Chatterjee
-* Denise Fernandez 
+* Denise Fernandez  
+
+# Smartfoxies 
+* Azadeh Khojandi
+* Cathy Lill
+* Penelope Harpley
+* Katrin Schmidt
