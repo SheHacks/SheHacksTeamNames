@@ -41,3 +41,10 @@ Please put your Team Name and Team Members here
 * Hien Bao
 * Maheen Afridi
 * Tran To
+
+# The Ninja Muffins
+* Gabe Nina Setiawan
+* Julia Wong
+* Jenna Bermeister
+* Anne Rong
+* Wen Di Lim
