@@ -11,7 +11,7 @@ eg.
 
 
 # AAAH!
-Adriana Kligman
-Alice Roberts
-Alexandra Doering
-Helo Petry
+* Adriana Kligman
+* Alice Roberts
+* Alexandra Doering
+* Helo Petry
