@@ -16,3 +16,11 @@ Lucy Bain
 * Alice Roberts
 * Alexandra Doering
 * Helo Petry
+* 
+
+
+# Smartfoxies 
+* Azadeh Khojandi
+* Cathy Lill
+* Penelope Harpley
+* Katrin Schmidt
