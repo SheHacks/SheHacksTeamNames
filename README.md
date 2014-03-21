@@ -62,7 +62,7 @@ Please put your Team Name and Team Members here
 * Monika Koffer
 * Ambreen Khan
 
-# Sheilaz
+# The Sheilaz
 * Azadeh
 * Kat
 * Penelope
