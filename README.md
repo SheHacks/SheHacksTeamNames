@@ -3,7 +3,7 @@ SheHacksTeamNames
 
 Please put your Team Name and Team Members here
 
-#Team SharpGirls
+# Team SharpGirls
 * Ina Behrendt
 * Melanie Kaw
 * Julia Mitchelmore
@@ -28,3 +28,10 @@ Please put your Team Name and Team Members here
 * Cathy Lill
 * Penelope Harpley
 * Katrin Schmidt
+
+# Yea Sounds Good
+* Hethre Contant
+* Belinda Teh
+* Jessica Brazelton
+* Liz Wang
+* Melissa Hong
