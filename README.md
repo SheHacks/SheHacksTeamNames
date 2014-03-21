@@ -3,12 +3,13 @@ SheHacksTeamNames
 
 Please put your Team Name and Team Members here
 
-eg.
+#Team SharpGirls
 
-# Team Awesome Face
-* Jane Doe
-* Sarah Deer
-
+Ina Behrendt<br>
+Melanie Kaw<br>
+Julia Mitchelmore<br>
+Angie Gove<br>
+Lucy Bain
 
 # AAAH!
 * Adriana Kligman
