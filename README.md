@@ -3,6 +3,13 @@ SheHacksTeamNames
 
 Please put your Team Name and Team Members here
 
+# Must Love Dogs
+* Steph Mcdonald
+* Susan Shi
+* Krystle Jayne
+* Maria Shvedova
+* Finnian Lattimore
+
 # Team SharpGirls
 * Ina Behrendt
 * Melanie Kaw
