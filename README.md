@@ -61,7 +61,7 @@ Please put your Team Name and Team Members here
 * Catherine Jones
 * Paola Roategui
 * Salla Mankien
-* [github repo](https://github.com/julietta/sharethepawpaw)
+* [github repo](https://github.com/jullietta/sharethepawpaw)
 
 # The Gamers
 * Lisa Li
