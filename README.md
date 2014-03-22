@@ -22,6 +22,7 @@ Please put your Team Name and Team Members here
 * Alice Roberts
 * Alexandra Doering
 * Helo Petry
+* [github repo](https://github.com/alexdoering/skilly)
 
 # Team Disasterama
 * Daphne Chongg
