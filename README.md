@@ -42,6 +42,7 @@ Please put your Team Name and Team Members here
 * Jessica Brazelton
 * Liz Wang
 * Melissa Hong
+* [github repo](https://github.com/hethre/yeasoundsgood)
 
 # The Buddies
 * Hien Bao
