@@ -24,7 +24,7 @@ Please put your Team Name and Team Members here
 * Helo Petry
 
 # Team Disasterama
-* Daphne Chong
+* Daphne Chongg
 * Luciana Carrolo
 * Anna Zaitsev
 * Kim Chatterjee
@@ -69,6 +69,7 @@ Please put your Team Name and Team Members here
 * Eddy Mead
 * Monika Koffer
 * Ambreen Khan
+* [github repo](https://github.com/wilddamon/saru-no-shima)
 
 # The Sheilaz
 * Azadeh
