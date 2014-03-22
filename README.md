@@ -16,6 +16,7 @@ Please put your Team Name and Team Members here
 * Julia Mitchelmore
 * Angie Gove
 * Lucy Bain
+* [github repo](https://github.com/juliamitchelmore/minijobs)
 
 # AAAH!
 * Adriana Kligman
