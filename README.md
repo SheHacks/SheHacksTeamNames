@@ -9,6 +9,7 @@ Please put your Team Name and Team Members here
 * Krystle Jayne
 * Maria Shvedova
 * Finnian Lattimore
+* [github repo](https://github.com/createandmake/doggle)
 
 # Team SharpGirls
 * Ina Behrendt
