@@ -2,8 +2,35 @@ SheHacksTeamNames
 =================
 
 Please put your Team Name and Team Members here
+# Prize Winners
 
-# Must Love Dogs
+## 1st Place
+### Team Disasterama
+* Daphne Chongg
+* Luciana Carrolo
+* Anna Zaitsev
+* Kim Chatterjee
+* Denise Fernandez  
+* [github repo](https://github.com/daphnechong/she-hacks)
+
+## 2nd Place
+### Ninja Muffin
+* Gabe Nina Setiawan
+* Julia Wong
+* Jenna Bermeister
+* Anne Rong
+* Wen Di Lim
+ 
+## 3rd Place
+### Smartfoxies 
+* Azadeh Khojandi
+* Cathy Lill
+* Penelope Harpley
+* Katrin Schmidt
+* [github repo](https://github.com/azadehkhojandi/bookloverz)
+
+## People's Choice
+### Must Love Dogs
 * Steph Mcdonald
 * Susan Shi
 * Krystle Jayne
@@ -11,7 +38,9 @@ Please put your Team Name and Team Members here
 * Finnian Lattimore
 * [github repo](https://github.com/createandmake/doggle)
 
-# Team SharpGirls
+# Remaining Teams
+
+### Team SharpGirls
 * Ina Behrendt
 * Melanie Kaw
 * Julia Mitchelmore
@@ -19,29 +48,14 @@ Please put your Team Name and Team Members here
 * Lucy Bain
 * [github repo](https://github.com/juliamitchelmore/minijobs)
 
-# AAAH!
+### AAAH!
 * Adriana Kligman
 * Alice Roberts
 * Alexandra Doering
 * Helo Petry
 * [github repo](https://github.com/alexdoering/skilly)
 
-# Team Disasterama
-* Daphne Chongg
-* Luciana Carrolo
-* Anna Zaitsev
-* Kim Chatterjee
-* Denise Fernandez  
-
-# Smartfoxies 
-* Azadeh Khojandi
-* Cathy Lill
-* Penelope Harpley
-* Katrin Schmidt
-* [github repo](https://github.com/azadehkhojandi/bookloverz)
-
-
-# Yea Sounds Good
+### Yea Sounds Good
 * Hethre Contant
 * Belinda Teh
 * Jessica Brazelton
@@ -49,19 +63,12 @@ Please put your Team Name and Team Members here
 * Melissa Hong
 * [github repo](https://github.com/hethre/yeasoundsgood)
 
-# The Buddies
+### The Buddies
 * Hien Bao
 * Maheen Afridi
 * Tran To
 
-# The Ninja Muffins
-* Gabe Nina Setiawan
-* Julia Wong
-* Jenna Bermeister
-* Anne Rong
-* Wen Di Lim
-
-# Share the Paw Paw
+### Share the Paw Paw
 * Julietta Jung
 * Lisa Salmon
 * Catherine Jones
@@ -69,7 +76,7 @@ Please put your Team Name and Team Members here
 * Salla Mankien
 * [github repo](https://github.com/jullietta/sharethepawpaw)
 
-# The Gamers
+### The Gamers
 * Lisa Li
 * Mysha Islam
 * Eddy Mead
@@ -77,7 +84,7 @@ Please put your Team Name and Team Members here
 * Ambreen Khan
 * [github repo](https://github.com/wilddamon/saru-no-shima)
 
-# The Sheilaz
+### The Sheilaz
 * Azadeh
 * Kat
 * Penelope
