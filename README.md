@@ -1,7 +1,8 @@
 SheHacksTeamNames
 =================
 
-Please put your Team Name and Team Members here
+Photos of the event: https://www.facebook.com/georgiknox/media_set?set=a.10151978234700079.1073741826.540800078&type=1&l=48462e76e3
+
 # Prize Winners
 
 ## 1st Place
@@ -12,6 +13,7 @@ Please put your Team Name and Team Members here
 * Kim Chatterjee
 * Denise Fernandez  
 * [github repo](https://github.com/daphnechong/she-hacks)
+* Prize won: Nexus 7 + She Hacks trophy's -> presented by Google
 
 ## 2nd Place
 ### Ninja Muffin
@@ -20,6 +22,8 @@ Please put your Team Name and Team Members here
 * Jenna Bermeister
 * Anne Rong
 * Wen Di Lim
+* Prize won: $100 Myer giftcard + Atlassian Goodies Pack -> presented by Atlassian
+
  
 ## 3rd Place
 ### Smartfoxies 
@@ -28,6 +32,8 @@ Please put your Team Name and Team Members here
 * Penelope Harpley
 * Katrin Schmidt
 * [github repo](https://github.com/azadehkhojandi/bookloverz)
+* Prize won: Copy of Windows 8 + Microsoft Goodies Pack -> presented by Microsoft
+
 
 ## People's Choice
 ### Must Love Dogs
@@ -37,6 +43,7 @@ Please put your Team Name and Team Members here
 * Maria Shvedova
 * Finnian Lattimore
 * [github repo](https://github.com/createandmake/doggle)
+* Prize won: $50 Myer Giftcard, Copy of Lean In, 3d mini-me print + more -> presented by Razorfish
 
 # Remaining Teams
 
