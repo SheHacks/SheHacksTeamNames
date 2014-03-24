@@ -7,7 +7,7 @@ Photos of the event: https://www.facebook.com/georgiknox/media_set?set=a.1015197
 
 ## 1st Place
 ### Team Disasterama
-* Daphne Chongg
+* Daphne Chong
 * Luciana Carrolo
 * Anna Zaitsev
 * Kim Chatterjee
